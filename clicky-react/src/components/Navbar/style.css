@@ -1,0 +1,32 @@
+.navbar {
+    background: red;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+    display: block;
+    box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+
+}
+
+.brand {
+    font-size: 2rem;
+}
+
+.message {
+    font-size: 2rem;
+}
+
+.score {
+    font-size: 2rem;
+}
+
+ul {
+    margin-bottom: 0%;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 20px 0;
+    width: 33.3%;
+    text-align: center;
+}
