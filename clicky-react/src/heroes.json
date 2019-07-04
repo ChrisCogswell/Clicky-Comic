@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Iron Man",
+      "image":
+        "https://cdn11.bigcommerce.com/s-0kvv9/images/stencil/1280x1280/products/276493/386626/aug180958__70638.1541100080.jpg?c=2"
+    },
+    {
+      "id": 2,
+      "name": "Captain America",
+      "image":
+        "https://www.gannett-cdn.com/media/USATODAY/USATODAY/2013/06/03/1370238794000-CUSTKIEHLS2013011-coverdesign-1306030830_3_4.jpg?width=534&height=712&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "Doctor Strange",
+      "image":
+        "https://i.pinimg.com/originals/f1/0d/bf/f10dbf4d3b692b9ddca4fe1e3ff9f4bf.jpg"
+    }
+  ]
+  
