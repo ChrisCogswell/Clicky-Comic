@@ -4,7 +4,7 @@ import "./style.css";
 function HeroCard(props) {
   return (
     <div className="card">
-      <div className="img-container">
+      <div className="img-container grow">
         <img alt={props.name} src={props.image} />
       </div>
     </div>

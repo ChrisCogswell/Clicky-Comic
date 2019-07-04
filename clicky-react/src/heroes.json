@@ -16,6 +16,60 @@
       "name": "Doctor Strange",
       "image":
         "https://i.pinimg.com/originals/f1/0d/bf/f10dbf4d3b692b9ddca4fe1e3ff9f4bf.jpg"
-    }
+    },
+    {
+        "id": 4,
+        "name": "Spiderman",
+        "image":
+          "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Web_of_Spider-Man_Vol_1_129-1.png/250px-Web_of_Spider-Man_Vol_1_129-1.png"
+      },
+      {
+        "id": 5,
+        "name": "Batman",
+        "image":
+          "http://pm1.narvii.com/6332/458f3b20fd8f20bc4ce4858a87efd69d0dc8d308_00.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Superman",
+        "image":
+          "https://fsmedia.imgix.net/e7/5c/e2/6e/48fb/4815/9cab/0bedf5b502d7/superman-dc-comics-75jpg.jpeg?auto=format%2Ccompress&h=1200&w=1200&crop=edges&fit=crop"
+      },
+      {
+        "id": 7,
+        "name": "Thor",
+        "image":
+          "https://i.pinimg.com/originals/aa/f2/c4/aaf2c4559408082cf0b0832b23ebae27.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Wonder Woman",
+        "image":
+          "https://experiencethewonder.com/wp-content/uploads/2014/11/2008-WBCP-DC-Comics-Justice-League-Heroes-United-Style-Guide-Wonder-Woman-024.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Hulk",
+        "image":
+          "https://i.pinimg.com/originals/4a/bc/a8/4abca8abdfda6359581be1153434266f.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Aquaman",
+        "image":
+          "https://pm1.narvii.com/5774/ac1bb7d9b98cf9bc59c3cff598e6e0b7b0a19104_hq.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Scarlet Witch",
+        "image":
+          "https://s1.r29static.com//bin/entry/a53/x,80/1662725/image.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Deadpool",
+        "image":
+          "https://profilepicturesdp.com/wp-content/uploads/2018/06/deadpool-google-profile-picture-1.jpg"
+      }
   ]
   

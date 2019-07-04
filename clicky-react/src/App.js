@@ -17,6 +17,33 @@ function App() {
       <HeroCard
         image={heroes[2].image}
       />
+      <HeroCard
+        image={heroes[3].image}
+      />
+      <HeroCard
+        image={heroes[4].image}
+      />
+      <HeroCard
+        image={heroes[5].image}
+      />
+      <HeroCard
+        image={heroes[6].image}
+      />
+      <HeroCard
+        image={heroes[7].image}
+      />
+      <HeroCard
+        image={heroes[8].image}
+      />
+      <HeroCard
+        image={heroes[9].image}
+      />
+      <HeroCard
+        image={heroes[10].image}
+      />
+      <HeroCard
+        image={heroes[11].image}
+      />
     </Wrapper>
   );
 }
