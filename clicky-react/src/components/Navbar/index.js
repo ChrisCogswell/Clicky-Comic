@@ -2,14 +2,14 @@ import React from "react";
 import "./style.css";
 
 
-function Navbar() {
+function Navbar(props) {
 return (
 
     <nav className="navbar">
     <ul>
         <li className="brand">Clicky-Comic</li>
-        <li className="message">You guessed incorrectly!</li>
-        <li className="score">Score: 0 | Top Score: 4</li>
+        <li className="message">{props.message}</li>
+        <li className="score">Score: {props.currentScore}</li>
     </ul>
 </nav>
 
