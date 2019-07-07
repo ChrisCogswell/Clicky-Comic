@@ -23,8 +23,8 @@ shuffleCards =id=> {
   }else{
     clickedIds.push(id)
 
-  if(clickedIds.length === 8){
-    this.setState({score: 8, status: "You Won! Super Job", clickedIds: []});
+  if(clickedIds.length === 12){
+    this.setState({score: 12, outcome: "You Won! Super Job", clickedIds: []});
     console.log('You Win');
     return;
   }

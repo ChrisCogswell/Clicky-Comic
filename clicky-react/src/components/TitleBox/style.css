@@ -24,6 +24,7 @@
   
   .hero h1, .hero h3 {
     color: white;
+    font-family: 'Bangers', cursive;
   }
   
   .hero h1 {
@@ -32,3 +33,7 @@
     margin-top: 0;
   }
   
+  /* font-family: 'Acme', sans-serif;
+font-family: 'Bangers', cursive;
+font-family: 'Faster One', cursive;
+font-family: 'Permanent Marker', cursive; */
