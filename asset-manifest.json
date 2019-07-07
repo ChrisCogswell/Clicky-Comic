@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Clicky-Comic/static/css/main.f605e740.chunk.css",
+    "main.js": "/Clicky-Comic/static/js/main.8b0bcfb1.chunk.js",
+    "main.js.map": "/Clicky-Comic/static/js/main.8b0bcfb1.chunk.js.map",
+    "runtime~main.js": "/Clicky-Comic/static/js/runtime~main.5e3cd409.js",
+    "runtime~main.js.map": "/Clicky-Comic/static/js/runtime~main.5e3cd409.js.map",
+    "static/js/2.884c28c3.chunk.js": "/Clicky-Comic/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/Clicky-Comic/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/Clicky-Comic/index.html",
+    "precache-manifest.555aa217b9ef48988dcb6306fa18df2f.js": "/Clicky-Comic/precache-manifest.555aa217b9ef48988dcb6306fa18df2f.js",
+    "service-worker.js": "/Clicky-Comic/service-worker.js",
+    "static/css/main.f605e740.chunk.css.map": "/Clicky-Comic/static/css/main.f605e740.chunk.css.map"
+  }
+}
