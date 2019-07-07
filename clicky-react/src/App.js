@@ -14,12 +14,30 @@ class App extends Component {
     outcome: ""
   };
 
+shuffleCards =id=> {
+  let clickedIds = this.state.clickedIds;
+
+  if(clickedIds.includes(id)){
+    this.setState({ clickedIds: [], score: 0, outcome:  "Game Over! Evil Prevails. Click to play again!" });
+    return;
+  }else{
+    clickedIds.push(id)
+
+  if(clickedIds.length === 8){
+    this.setState({score: 8, status: "You Won! Super Job", clickedIds: []});
+    console.log('You Win');
+    return;
+  }
 
 
+  this.setState({ heroes, clickedIds, score: clickedIds.length, outcome: " " });
 
-
-
-
+  for (let i = heroes.length - 1; i > 0; i--) {
+  let j = Math.floor(Math.random() * (i + 1));
+  [heroes[i], heroes[j]] = [heroes[j], heroes[i]];
+    }
+  }
+}
 
 
   render() {
@@ -36,7 +54,7 @@ class App extends Component {
         <Wrapper>
           {this.state.heroes.map(hero => (
             <HeroCard
-              shuffleScoreCard={this.shuffleScoreCard}
+              shuffleCards={this.shuffleCards}
               id={hero.id}
               key={hero.id}
               image={hero.image}
